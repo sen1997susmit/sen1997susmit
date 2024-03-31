@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science Business Problem & it's application in GIS**
 
-- 💬 Ask me about **Python,Statistics,GenAI,QGIS,Azure**
+- 💬 Ask me about **Python,Statistics,GenAI,QGIS,Azure...or anything Here**
 
 - 📫 How to reach me **sen1997susmit@gmail.com**
 
