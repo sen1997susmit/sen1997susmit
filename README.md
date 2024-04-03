@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Digital Image Processing with openCV in Python from GEO University**
 
-- 👯 I’m looking to collaborate on **Data Science Business Problem & it's application in GIS**
+- 👯 I’m looking to collaborate on **Data Science Business Problem & ML application in GIS**
 
 - 💬 Ask me about **Python,Statistics,GenAI,QGIS,Azure**
 
