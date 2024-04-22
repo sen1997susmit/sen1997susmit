@@ -18,10 +18,9 @@
 - 📫 How to reach me **sen1997susmit@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
-- ## Certificate
+- ## DESSERTATION PROJECT
 
-![DESSERTATION PROJECT:Enhancing Response Combination Efficiency with Support Vector Regressor and Kernel
-Variants and its application in Control Chart]()
+![Enhancing Response Combination Efficiency with Support Vector Regressor and Kernel Variants and its application in Control Chart](https://github.com/sen1997susmit/DESSERTATION-PROJECT)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
