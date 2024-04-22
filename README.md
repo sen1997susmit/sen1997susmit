@@ -21,7 +21,7 @@
 ## DESSERTATION PROJECT
 
 ⚡[Enhancing Response Combination Efficiency with Support Vector Regressor and Kernel Variants and its application in Control Chart](https://github.com/sen1997susmit/DESSERTATION-PROJECT)
-## FREE ONLINE AWS COURSES offer by [freecodecamp](https://www.freecodecamp.org/)
+## FREE ONLINE AWS COURSES offered by [freecodecamp](https://www.freecodecamp.org/)
 ⚡[AWS-Cloud-Project-Bootcamp](https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp/),
 [AWS-Certified-Cloud-Practitioner along with CLF-C02](https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/)
 
