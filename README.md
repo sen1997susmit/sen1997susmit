@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Teleflex**
 
-- 🌱 I’m currently learning **Digital Image Processing with openCV in Python from GEO University**
+- 🌱 I’m currently learning **Digital Image Processing with openCV in Python from GEO University,[ML-Engineer-Learning-Path-GCP-SkillBoost](https://www.cloudskillsboost.google/paths/17)**
 
 - 👯 I’m looking to collaborate on **Data Science Business Problem & ML application in GIS**
 
