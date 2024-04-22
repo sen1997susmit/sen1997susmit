@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Teleflex**
 
-- 🌱 I’m currently learning **[ML-Engineer-Learning-Path-GCP-SkillBoost](https://www.cloudskillsboost.google/paths/17),[Advanced: Generative AI for Developers Learning Path](https://www.cloudskillsboost.google/paths/183)**
+- 🌱 I’m currently learning **[ML-Engineer-Learning-Path-GCP-SkillBoost](https://www.cloudskillsboost.google/paths/17),[Advanced: Generative AI for Developers Learning Path GCP](https://www.cloudskillsboost.google/paths/183)**
 
 - 👯 I’m looking to collaborate on **Data Science Business Problem & ML application in GIS**
 
