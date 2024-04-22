@@ -18,6 +18,9 @@
 - 📫 How to reach me **sen1997susmit@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+- ## Certificate
+
+![Certificate](https://github.com/sen1997susmit/ML-Engineer-Learning-Path-GCP-SkillBoost/blob/main/GCP.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
